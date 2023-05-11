@@ -1,0 +1,13 @@
+{
+  "name": "hugo-mod-plex",
+  "version": "0.1.0",
+  "description": "A Hugo module with the latest IBM Plex fonts from fontsource",
+  "main": "index.js",
+  "repository": "https://github.com/bowman2001/hugo-mod-plex.git",
+  "author": "Georg Makowski <gm@desider.at>",
+  "license": "MIT",
+  "dependencies": {
+    "@fontsource/ibm-plex-sans": "^4.5.13",
+    "@ibm/plex": "^6.3.0"
+  }
+}
